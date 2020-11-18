@@ -1,0 +1,9 @@
+
+# ignorando todo los archivos que empiecen por _
+
+_*
+
+# pero no este
+!_ayuda.txt
+
+
